@@ -6,5 +6,5 @@ _Привет, Иван!_ Пробуем подпортить тебе твой 
 
 Это не Тефтелька, но тоже ничего себе:
 
-![котик](Kat.jpg)
+![котик](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB903DaWRO6UBqVgKR12tH8PeSYBVbD-giA&usqp=CAU)
 
